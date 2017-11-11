@@ -2,8 +2,11 @@
 Assets and info for https://hp-mp-pots.tumblr.com/
 - gist: https://gist.github.com/potionPI/25005027a9427552f6cf93c99a10bde0
 
-## Info:
-### color:Background
+## All important assets
+[{color:Background}](#color:Background)
+
+## Links:
+- ##### color:Background
 #000000
 
 - ##### image:Background https://gist.githubusercontent.com/potionPI/25005027a9427552f6cf93c99a10bde0/raw/8f216a2b0196ca5bad0c6a6a8b47c71798180d67/green-vase-wallpaper.png
