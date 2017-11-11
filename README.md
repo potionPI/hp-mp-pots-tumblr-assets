@@ -3,7 +3,12 @@ Assets and info for https://hp-mp-pots.tumblr.com/
 - gist: https://gist.github.com/potionPI/25005027a9427552f6cf93c99a10bde0
 
 ## All important assets
-[{color:Background}](#colorbackground)
+[color:Background](#colorbackground)
+[image:Background](#imagebackground)
+[image:BackgroundFloatTop](#imagebackgroundfloattop)
+[image:BackgroundFloatBottom](#imagebackgroundfloatbottom)
+[image:IntroPicPerson](#intropicperson)
+[image:IntroPicObject](#intropicobject)
 
 ## Links:
 - ##### color:Background
