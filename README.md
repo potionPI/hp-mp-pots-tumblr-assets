@@ -13,6 +13,7 @@ Assets and info for https://hp-mp-pots.tumblr.com/
 - [image:IntroPicPerson](#imageintropicperson)
 - [image:IntroPicObject](#imageintropicobject)
 - [image:Spinny1](#imagespinny1)
+- [image:EventPic](#imageeventpic)
 
 ## Links:
 - ##### color:Background
@@ -33,5 +34,8 @@ Assets and info for https://hp-mp-pots.tumblr.com/
 - ##### image:IntroPicObject
   https://gist.githubusercontent.com/potionPI/25005027a9427552f6cf93c99a10bde0/raw/fb187a055a510caa7719a0ae3615b76a63104e28/cauldron.gif
 
-- ##### image:spinny1
+- ##### image:Spinny1
   https://gist.githubusercontent.com/potionPI/25005027a9427552f6cf93c99a10bde0/raw/7f7d6c95be42209d8bb0504785c94ea7379d7ffe/spinny-flower1.gif
+
+- ##### image:EventPic
+  https://gist.githubusercontent.com/potionPI/25005027a9427552f6cf93c99a10bde0/raw/73f1425b302c92938997e5a6adb70a57f137c22e/raccoon-reader-winks.gif
